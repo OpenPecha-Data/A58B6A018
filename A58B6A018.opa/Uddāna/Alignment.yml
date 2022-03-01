@@ -1,0 +1,23 @@
+segment_sources:
+  P1BBB8BE4:
+    type: origin_type
+    relation: translation
+    language: sa
+  P1EEE0E27:
+    type: origin_type
+    relation: translation
+    language: bo
+  PAC6BB4B7:
+    type: origin_type
+    relation: translation
+    language: zh
+  P75E75777:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  37d0c5a23f9b4483aef93866b2a2d85f:
+    P1BBB8BE4: d6e6704ad07448a7b8632a243739252a
+    P1EEE0E27: da7933fd352e4c24a9b1417d293677e4
+    PAC6BB4B7: 41a190d91b684777813fbd5d08064ebc
+    P75E75777: 29e06696982543b9a435880a2e361911
